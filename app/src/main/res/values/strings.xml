@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">proekt1</string>
+    <string name="edit_text">Введите сообщение</string>
+    <string name="button">Отправить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
